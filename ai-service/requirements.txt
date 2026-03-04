@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langgraph
+groq
+black
+flake8
+isort
